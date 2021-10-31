@@ -13,7 +13,7 @@ The other students then do the following:
 <li>Make a pull request on the GitHub website</li>
 The Mother now needs to accept the changes on the website too
 
-### PART TWO - BRANCES:
+### PART TWO - BRANCHES:
 Now The Mother needs to invite all the other students as collaborators to the repository
 The students will then receive an email where they need to accept the collaboration
 The students will then need to do the following:
@@ -38,7 +38,7 @@ The Mother now needs to do the following:
 
 ## The Process 
 
-I did this project with my girlfriends who has some experiance with GitHub so I got to take on the both roles and she helped me out and explained everything to me. We took our time doing this project and went over everything in detail. I used <strong>GitKraken</strong> which is a really simple Git GUI software.
+I did this project with my girlfriend who has experience with GitHub so I got to take on both roles as a collaborator and "The Mother". She helped me understand the process of GitHub and we added some common things that would happen in the real world like making a pull request, reviewing them and putting in comments, going back and fixing them which added a lot of depth to this project. I used <strong>GitKraken</strong> which is a really simple Git GUI software.
 
 ## The Conclusion
 
